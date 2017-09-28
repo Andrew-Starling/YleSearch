@@ -3,4 +3,4 @@ A cross platform Unity app which searches the Yle database for TV, Film and Radi
 
 Supports all resolutions and portrait/landscape orientation.
 
-![](Screenshots/YleSearch 1.png?raw=true)
+![](Screenshots/YleSearch%201.png?raw=true)
